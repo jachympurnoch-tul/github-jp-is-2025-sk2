@@ -6,4 +6,4 @@ První testovací commit - CHARMANDER
 Druhý testovací commit - BULBASAUR
 
 Třetí testovací commit - SQUIRTLE 
-    - test příkazů <git push> a <git pull>
+    - test příkazů `git push` a `git pull`
