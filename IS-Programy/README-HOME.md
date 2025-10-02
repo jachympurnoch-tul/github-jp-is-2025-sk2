@@ -11,4 +11,5 @@ Třetí testovací commit - SQUIRTLE
 ## **POSTUP**
 1. v **cmd** -> `cd aaa` -> `cd IS-2025-Sk2` -> `code .`
 2. při každé změně -> `Source Control` *(třetí odshora)* -> **NASTAV MESSAGE (důležité!)** -> `Commit & Push` *(nebo jen `Commit` a pak do terminálu napsat `git push`)* 
-
+3. Naistalovat dotnet (nejnovější) -> a 3 extensions -> C#, C# dev kit a .net Install Tool
+ 
