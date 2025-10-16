@@ -1,8 +1,12 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "aEuXtHR1YEQ=",
+=======
+  "dgSpecHash": "O98nJwKH7A0=",
+>>>>>>> fb643ca62747c41dccab8be6af22283309cf6967
   "success": true,
-  "projectFilePath": "C:\\aaa\\IS-2025-Sk2\\github-jp-is-2025-sk2\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj",
+  "projectFilePath": "C:\\Users\\Uzivatel\\aaa\\IS-2025-Sk2\\github-jp-is-2025-sk2\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
