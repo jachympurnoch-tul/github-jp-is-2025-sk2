@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Uzivatel\\aaa\\IS-2025-Sk2\\github-jp-is-2025-sk2\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj": {}
+    "C:\\aaa\\IS-2025-Sk2\\github-jp-is-2025-sk2\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Uzivatel\\aaa\\IS-2025-Sk2\\github-jp-is-2025-sk2\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj": {
+    "C:\\aaa\\IS-2025-Sk2\\github-jp-is-2025-sk2\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Uzivatel\\aaa\\IS-2025-Sk2\\github-jp-is-2025-sk2\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj",
+        "projectUniqueName": "C:\\aaa\\IS-2025-Sk2\\github-jp-is-2025-sk2\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj",
         "projectName": "program001-vypis-rady",
-        "projectPath": "C:\\Users\\Uzivatel\\aaa\\IS-2025-Sk2\\github-jp-is-2025-sk2\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj",
+        "projectPath": "C:\\aaa\\IS-2025-Sk2\\github-jp-is-2025-sk2\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj",
         "packagesPath": "C:\\Users\\Uzivatel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Uzivatel\\aaa\\IS-2025-Sk2\\github-jp-is-2025-sk2\\IS-Programy\\program001-vypis-rady\\obj\\",
+        "outputPath": "C:\\aaa\\IS-2025-Sk2\\github-jp-is-2025-sk2\\IS-Programy\\program001-vypis-rady\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Uzivatel\\AppData\\Roaming\\NuGet\\NuGet.Config"
