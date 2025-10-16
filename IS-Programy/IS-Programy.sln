@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "program001-vypis-rady", "program001-vypis-rady\program001-vypis-rady.csproj", "{BB8D17B8-862C-E856-9B40-747F33C41613}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB8D17B8-862C-E856-9B40-747F33C41613}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB8D17B8-862C-E856-9B40-747F33C41613}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB8D17B8-862C-E856-9B40-747F33C41613}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB8D17B8-862C-E856-9B40-747F33C41613}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69ED24F8-766A-41D1-8758-76644FE6E327}
+	EndGlobalSection
+EndGlobal
