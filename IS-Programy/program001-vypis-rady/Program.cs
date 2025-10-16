@@ -65,6 +65,13 @@ while (again == "a")
     Console.WriteLine("Chcete spustit znovu? (a = ano / n = ne)");
     again = Console.ReadLine();
 
+    //Vstup: 236
+    //Ciferný součet 236 je 11
+    //236 % 10 =                        //zbytek - 6, 3, 2
+    // 2 % 10 =                         //celá část - 23, 2, 0
+                                    
+
+
 
      
 }
