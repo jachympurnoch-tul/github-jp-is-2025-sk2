@@ -29,7 +29,7 @@ while (again == "a")
         number = -number;
     }
 
-    while(number >= 10)
+    while (number >= 10)
     {
         digit = number % 10; //určí nám zbytek
         number = (number - digit) / 10;
@@ -49,5 +49,7 @@ while (again == "a")
     Console.WriteLine();
     Console.WriteLine("Pro opakování programu stikněte a");
     again = Console.ReadLine();
+
+//domácí ukol = najit jiny zpusob reseni nez matematicky (chat)
 
 }
