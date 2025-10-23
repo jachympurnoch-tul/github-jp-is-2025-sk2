@@ -1,0 +1,15 @@
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program004a-serazeni-tri-cisel\bin\Debug\net9.0\program004a-serazeni-tri-cisel.exe
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program004a-serazeni-tri-cisel\bin\Debug\net9.0\program004a-serazeni-tri-cisel.deps.json
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program004a-serazeni-tri-cisel\bin\Debug\net9.0\program004a-serazeni-tri-cisel.runtimeconfig.json
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program004a-serazeni-tri-cisel\bin\Debug\net9.0\program004a-serazeni-tri-cisel.dll
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program004a-serazeni-tri-cisel\bin\Debug\net9.0\program004a-serazeni-tri-cisel.pdb
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program004a-serazeni-tri-cisel\obj\Debug\net9.0\program004a-serazeni-tri-cisel.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program004a-serazeni-tri-cisel\obj\Debug\net9.0\program004a-serazeni-tri-cisel.AssemblyInfoInputs.cache
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program004a-serazeni-tri-cisel\obj\Debug\net9.0\program004a-serazeni-tri-cisel.AssemblyInfo.cs
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program004a-serazeni-tri-cisel\obj\Debug\net9.0\program004a-serazeni-tri-cisel.csproj.CoreCompileInputs.cache
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program004a-serazeni-tri-cisel\obj\Debug\net9.0\program004a-serazeni-tri-cisel.sourcelink.json
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program004a-serazeni-tri-cisel\obj\Debug\net9.0\program004a-serazeni-tri-cisel.dll
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program004a-serazeni-tri-cisel\obj\Debug\net9.0\refint\program004a-serazeni-tri-cisel.dll
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program004a-serazeni-tri-cisel\obj\Debug\net9.0\program004a-serazeni-tri-cisel.pdb
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program004a-serazeni-tri-cisel\obj\Debug\net9.0\program004a-serazeni-tri-cisel.genruntimeconfig.cache
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program004a-serazeni-tri-cisel\obj\Debug\net9.0\ref\program004a-serazeni-tri-cisel.dll
