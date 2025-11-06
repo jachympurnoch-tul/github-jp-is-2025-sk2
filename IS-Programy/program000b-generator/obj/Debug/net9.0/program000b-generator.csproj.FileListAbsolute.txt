@@ -1,0 +1,15 @@
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program000b-generator\bin\Debug\net9.0\program000b-generator.exe
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program000b-generator\bin\Debug\net9.0\program000b-generator.deps.json
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program000b-generator\bin\Debug\net9.0\program000b-generator.runtimeconfig.json
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program000b-generator\bin\Debug\net9.0\program000b-generator.dll
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program000b-generator\bin\Debug\net9.0\program000b-generator.pdb
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program000b-generator\obj\Debug\net9.0\program000b-generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program000b-generator\obj\Debug\net9.0\program000b-generator.AssemblyInfoInputs.cache
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program000b-generator\obj\Debug\net9.0\program000b-generator.AssemblyInfo.cs
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program000b-generator\obj\Debug\net9.0\program000b-generator.csproj.CoreCompileInputs.cache
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program000b-generator\obj\Debug\net9.0\program000b-generator.sourcelink.json
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program000b-generator\obj\Debug\net9.0\program000b-generator.dll
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program000b-generator\obj\Debug\net9.0\refint\program000b-generator.dll
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program000b-generator\obj\Debug\net9.0\program000b-generator.pdb
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program000b-generator\obj\Debug\net9.0\program000b-generator.genruntimeconfig.cache
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program000b-generator\obj\Debug\net9.0\ref\program000b-generator.dll

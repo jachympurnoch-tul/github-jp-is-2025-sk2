@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("program005-generator-nahodnych-cisel")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("program000b-generator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aafdca5a2ca8cf36b06ff3ef291b845400c71ab3")]
-[assembly: System.Reflection.AssemblyProductAttribute("program005-generator-nahodnych-cisel")]
-[assembly: System.Reflection.AssemblyTitleAttribute("program005-generator-nahodnych-cisel")]
+[assembly: System.Reflection.AssemblyProductAttribute("program000b-generator")]
+[assembly: System.Reflection.AssemblyTitleAttribute("program000b-generator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Vygenerované třídou WriteCodeFragment nástroje MSBuild
