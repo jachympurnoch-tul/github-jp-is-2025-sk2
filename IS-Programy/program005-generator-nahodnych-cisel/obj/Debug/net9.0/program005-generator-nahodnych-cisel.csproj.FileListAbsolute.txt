@@ -1,0 +1,15 @@
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program005-generator-nahodnych-cisel\bin\Debug\net9.0\program005-generator-nahodnych-cisel.exe
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program005-generator-nahodnych-cisel\bin\Debug\net9.0\program005-generator-nahodnych-cisel.deps.json
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program005-generator-nahodnych-cisel\bin\Debug\net9.0\program005-generator-nahodnych-cisel.runtimeconfig.json
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program005-generator-nahodnych-cisel\bin\Debug\net9.0\program005-generator-nahodnych-cisel.dll
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program005-generator-nahodnych-cisel\bin\Debug\net9.0\program005-generator-nahodnych-cisel.pdb
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program005-generator-nahodnych-cisel\obj\Debug\net9.0\program005-generator-nahodnych-cisel.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program005-generator-nahodnych-cisel\obj\Debug\net9.0\program005-generator-nahodnych-cisel.AssemblyInfoInputs.cache
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program005-generator-nahodnych-cisel\obj\Debug\net9.0\program005-generator-nahodnych-cisel.AssemblyInfo.cs
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program005-generator-nahodnych-cisel\obj\Debug\net9.0\program005-generator-nahodnych-cisel.csproj.CoreCompileInputs.cache
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program005-generator-nahodnych-cisel\obj\Debug\net9.0\program005-generator-nahodnych-cisel.sourcelink.json
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program005-generator-nahodnych-cisel\obj\Debug\net9.0\program005-generator-nahodnych-cisel.dll
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program005-generator-nahodnych-cisel\obj\Debug\net9.0\refint\program005-generator-nahodnych-cisel.dll
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program005-generator-nahodnych-cisel\obj\Debug\net9.0\program005-generator-nahodnych-cisel.pdb
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program005-generator-nahodnych-cisel\obj\Debug\net9.0\program005-generator-nahodnych-cisel.genruntimeconfig.cache
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program005-generator-nahodnych-cisel\obj\Debug\net9.0\ref\program005-generator-nahodnych-cisel.dll
