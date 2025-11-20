@@ -73,7 +73,7 @@ while (again == "a")
         // tento cyklus musí zajistit porovnávání dvou sousedních hodnot
         // musí dále zajistit, aby se zmenšoval počet porovnávaných hodnot
         for(int j = 0; j < n - i - 1 ; j++) {
-            if(myRandNumbs[j] > myRandNumbs[j + 1]) {
+            if(myRandNumbs[j] < myRandNumbs[j + 1]) {
                 int tmp = myRandNumbs[j + 1];
                 myRandNumbs[j + 1] = myRandNumbs[j];
                 myRandNumbs[j] = tmp;
@@ -91,7 +91,7 @@ while (again == "a")
     for(int i = 0; i < n; i++) {
         Console.Write("{0}; ",myRandNumbs[i]);
     }
-
+    
     Console.WriteLine();
     Console.WriteLine();
     Console.WriteLine($"počet porovnání: {compare}");
@@ -100,6 +100,13 @@ while (again == "a")
     Console.WriteLine();
     Console.WriteLine();
     Console.WriteLine("Čas seřazení čísel pomocí bubblesort: {0}", myStopwatch.Elapsed);
+
+
+    Console.WriteLine();
+    //Console.WriteLine($"Druhé největší číslo je: {}");
+    Console.WriteLine();
+    Console.WriteLine();    
+
 
 
     Console.WriteLine();

@@ -1,0 +1,15 @@
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program007b-bubble-sort-samostatna-prace\obj\Debug\net9.0\program007b-bubble-sort-samostatna-prace.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program007b-bubble-sort-samostatna-prace\obj\Debug\net9.0\program007b-bubble-sort-samostatna-prace.AssemblyInfoInputs.cache
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program007b-bubble-sort-samostatna-prace\obj\Debug\net9.0\program007b-bubble-sort-samostatna-prace.AssemblyInfo.cs
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program007b-bubble-sort-samostatna-prace\obj\Debug\net9.0\program007b-bubble-sort-samostatna-prace.csproj.CoreCompileInputs.cache
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program007b-bubble-sort-samostatna-prace\obj\Debug\net9.0\program007b-bubble-sort-samostatna-prace.sourcelink.json
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program007b-bubble-sort-samostatna-prace\bin\Debug\net9.0\program007b-bubble-sort-samostatna-prace.exe
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program007b-bubble-sort-samostatna-prace\bin\Debug\net9.0\program007b-bubble-sort-samostatna-prace.deps.json
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program007b-bubble-sort-samostatna-prace\bin\Debug\net9.0\program007b-bubble-sort-samostatna-prace.runtimeconfig.json
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program007b-bubble-sort-samostatna-prace\bin\Debug\net9.0\program007b-bubble-sort-samostatna-prace.dll
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program007b-bubble-sort-samostatna-prace\bin\Debug\net9.0\program007b-bubble-sort-samostatna-prace.pdb
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program007b-bubble-sort-samostatna-prace\obj\Debug\net9.0\program007b-bubble-sort-samostatna-prace.dll
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program007b-bubble-sort-samostatna-prace\obj\Debug\net9.0\refint\program007b-bubble-sort-samostatna-prace.dll
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program007b-bubble-sort-samostatna-prace\obj\Debug\net9.0\program007b-bubble-sort-samostatna-prace.pdb
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program007b-bubble-sort-samostatna-prace\obj\Debug\net9.0\program007b-bubble-sort-samostatna-prace.genruntimeconfig.cache
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program007b-bubble-sort-samostatna-prace\obj\Debug\net9.0\ref\program007b-bubble-sort-samostatna-prace.dll
