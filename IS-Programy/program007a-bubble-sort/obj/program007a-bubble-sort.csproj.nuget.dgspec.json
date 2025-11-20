@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\aaa\\IS-2025-Sk2\\github-jp-is-2025-sk2\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj": {}
+    "C:\\aaa\\IS-2025-Sk2\\github-jp-is-2025-sk2\\IS-Programy\\program007a-bubble-sort\\program007a-bubble-sort.csproj": {}
   },
   "projects": {
-    "C:\\aaa\\IS-2025-Sk2\\github-jp-is-2025-sk2\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj": {
+    "C:\\aaa\\IS-2025-Sk2\\github-jp-is-2025-sk2\\IS-Programy\\program007a-bubble-sort\\program007a-bubble-sort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\aaa\\IS-2025-Sk2\\github-jp-is-2025-sk2\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj",
-        "projectName": "program001-vypis-rady",
-        "projectPath": "C:\\aaa\\IS-2025-Sk2\\github-jp-is-2025-sk2\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj",
+        "projectUniqueName": "C:\\aaa\\IS-2025-Sk2\\github-jp-is-2025-sk2\\IS-Programy\\program007a-bubble-sort\\program007a-bubble-sort.csproj",
+        "projectName": "program007a-bubble-sort",
+        "projectPath": "C:\\aaa\\IS-2025-Sk2\\github-jp-is-2025-sk2\\IS-Programy\\program007a-bubble-sort\\program007a-bubble-sort.csproj",
         "packagesPath": "C:\\Users\\Uzivatel\\.nuget\\packages\\",
-        "outputPath": "C:\\aaa\\IS-2025-Sk2\\github-jp-is-2025-sk2\\IS-Programy\\program001-vypis-rady\\obj\\",
+        "outputPath": "C:\\aaa\\IS-2025-Sk2\\github-jp-is-2025-sk2\\IS-Programy\\program007a-bubble-sort\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Uzivatel\\AppData\\Roaming\\NuGet\\NuGet.Config"

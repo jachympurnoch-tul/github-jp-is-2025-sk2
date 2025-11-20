@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\aaa\\IS-2025-Sk2\\github-jp-is-2025-sk2\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj",
-      "projectName": "program001-vypis-rady",
-      "projectPath": "C:\\aaa\\IS-2025-Sk2\\github-jp-is-2025-sk2\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj",
+      "projectUniqueName": "C:\\aaa\\IS-2025-Sk2\\github-jp-is-2025-sk2\\IS-Programy\\program006-extremy\\program006-extremy.csproj",
+      "projectName": "program006-extremy",
+      "projectPath": "C:\\aaa\\IS-2025-Sk2\\github-jp-is-2025-sk2\\IS-Programy\\program006-extremy\\program006-extremy.csproj",
       "packagesPath": "C:\\Users\\Uzivatel\\.nuget\\packages\\",
-      "outputPath": "C:\\aaa\\IS-2025-Sk2\\github-jp-is-2025-sk2\\IS-Programy\\program001-vypis-rady\\obj\\",
+      "outputPath": "C:\\aaa\\IS-2025-Sk2\\github-jp-is-2025-sk2\\IS-Programy\\program006-extremy\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Uzivatel\\AppData\\Roaming\\NuGet\\NuGet.Config"
