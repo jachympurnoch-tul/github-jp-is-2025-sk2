@@ -1,0 +1,15 @@
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program009-10to2\bin\Debug\net9.0\program009-10to2.exe
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program009-10to2\bin\Debug\net9.0\program009-10to2.deps.json
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program009-10to2\bin\Debug\net9.0\program009-10to2.runtimeconfig.json
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program009-10to2\bin\Debug\net9.0\program009-10to2.dll
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program009-10to2\bin\Debug\net9.0\program009-10to2.pdb
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program009-10to2\obj\Debug\net9.0\program009-10to2.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program009-10to2\obj\Debug\net9.0\program009-10to2.AssemblyInfoInputs.cache
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program009-10to2\obj\Debug\net9.0\program009-10to2.AssemblyInfo.cs
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program009-10to2\obj\Debug\net9.0\program009-10to2.csproj.CoreCompileInputs.cache
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program009-10to2\obj\Debug\net9.0\program009-10to2.sourcelink.json
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program009-10to2\obj\Debug\net9.0\program009-10to2.dll
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program009-10to2\obj\Debug\net9.0\refint\program009-10to2.dll
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program009-10to2\obj\Debug\net9.0\program009-10to2.pdb
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program009-10to2\obj\Debug\net9.0\program009-10to2.genruntimeconfig.cache
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program009-10to2\obj\Debug\net9.0\ref\program009-10to2.dll
