@@ -1,0 +1,15 @@
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program008-array-reversing\bin\Debug\net9.0\program008-array-reversing.exe
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program008-array-reversing\bin\Debug\net9.0\program008-array-reversing.deps.json
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program008-array-reversing\bin\Debug\net9.0\program008-array-reversing.runtimeconfig.json
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program008-array-reversing\bin\Debug\net9.0\program008-array-reversing.dll
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program008-array-reversing\bin\Debug\net9.0\program008-array-reversing.pdb
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program008-array-reversing\obj\Debug\net9.0\program008-array-reversing.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program008-array-reversing\obj\Debug\net9.0\program008-array-reversing.AssemblyInfoInputs.cache
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program008-array-reversing\obj\Debug\net9.0\program008-array-reversing.AssemblyInfo.cs
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program008-array-reversing\obj\Debug\net9.0\program008-array-reversing.csproj.CoreCompileInputs.cache
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program008-array-reversing\obj\Debug\net9.0\program008-array-reversing.sourcelink.json
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program008-array-reversing\obj\Debug\net9.0\program008-array-reversing.dll
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program008-array-reversing\obj\Debug\net9.0\refint\program008-array-reversing.dll
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program008-array-reversing\obj\Debug\net9.0\program008-array-reversing.pdb
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program008-array-reversing\obj\Debug\net9.0\program008-array-reversing.genruntimeconfig.cache
+C:\aaa\IS-2025-Sk2\github-jp-is-2025-sk2\IS-Programy\program008-array-reversing\obj\Debug\net9.0\ref\program008-array-reversing.dll
