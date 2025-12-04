@@ -5,22 +5,38 @@ while (again == "a")
     Console.WriteLine("----------------------------------------");
     Console.WriteLine("-------------- Výpočet pí --------------");
     Console.WriteLine("----------------------------------------");
-    Console.WriteLine("-------Jáchym Purnoch / 2.10.2025-------");
+    Console.WriteLine("-------Jáchym Purnoch / 4.12.2025-------");
     Console.WriteLine("----------------------------------------");
     Console.WriteLine("----------------------------------------");
     Console.WriteLine();
 
-    // Vstup hodnoty do programu, ale špatně řešený
-    // Console.Write("Zadejte první číslo řady: ");
-    // int first = int.Parse(Console.ReadLine());
+    double i = 1;
+    double znamenko = 1;
+    double pictvrt = 0;
+    double pi = Math.PI;
 
-    // Vstup hodnoty do programu, ale lépe řešený
-    Console.Write("Zadejte první číslo řady(celé číslo): ");
-    int first;
-    while (!int.TryParse(Console.ReadLine(), out first)) 
+    Console.Write("Zadejte přesnost : ");
+    double presnost;
+    while (!double.TryParse(Console.ReadLine(), out presnost)) 
     {
-        Console.Write("Děláte machry, ale hajzl máte na chodbě! (Nezedali jste celé číslo. Zadejte první číslo řady znovu!)");
+        Console.Write("Zadejte přesnost řady znovu!: ");
     }
+
+
+    while ((1/i) >= presnost)
+    {
+        pictvrt = pictvrt + znamenko * 1/i;
+        znamenko = -znamenko;
+        i = i+2;
+    }
+
+    pi = 4 * pictvrt;
+
+    Console.WriteLine();
+    Console.WriteLine("pi = {0}", pi);
+    Console.WriteLine();
+
+
 
     Console.WriteLine();
     Console.WriteLine("Pro opakování programu stiskněte klávesu a");
