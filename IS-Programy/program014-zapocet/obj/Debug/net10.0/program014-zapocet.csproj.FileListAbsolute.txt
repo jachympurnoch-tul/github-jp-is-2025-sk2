@@ -1,0 +1,15 @@
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program014-zapocet\bin\Debug\net10.0\program014-zapocet.exe
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program014-zapocet\bin\Debug\net10.0\program014-zapocet.deps.json
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program014-zapocet\bin\Debug\net10.0\program014-zapocet.runtimeconfig.json
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program014-zapocet\bin\Debug\net10.0\program014-zapocet.dll
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program014-zapocet\bin\Debug\net10.0\program014-zapocet.pdb
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program014-zapocet\obj\Debug\net10.0\program014-zapocet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program014-zapocet\obj\Debug\net10.0\program014-zapocet.AssemblyInfoInputs.cache
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program014-zapocet\obj\Debug\net10.0\program014-zapocet.AssemblyInfo.cs
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program014-zapocet\obj\Debug\net10.0\program014-zapocet.csproj.CoreCompileInputs.cache
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program014-zapocet\obj\Debug\net10.0\program014-zapocet.sourcelink.json
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program014-zapocet\obj\Debug\net10.0\program014-zapocet.dll
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program014-zapocet\obj\Debug\net10.0\refint\program014-zapocet.dll
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program014-zapocet\obj\Debug\net10.0\program014-zapocet.pdb
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program014-zapocet\obj\Debug\net10.0\program014-zapocet.genruntimeconfig.cache
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program014-zapocet\obj\Debug\net10.0\ref\program014-zapocet.dll

@@ -66,3 +66,6 @@ while (again == "a")
     again = Console.ReadLine();
 
 }
+//BUBBLE sort
+//SELECTION sort
+//INSERTION sort
