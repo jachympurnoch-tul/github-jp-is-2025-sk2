@@ -1,0 +1,15 @@
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program013-nsn-a-nsd\bin\Debug\net10.0\program013-nsn-a-nsd.exe
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program013-nsn-a-nsd\bin\Debug\net10.0\program013-nsn-a-nsd.deps.json
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program013-nsn-a-nsd\bin\Debug\net10.0\program013-nsn-a-nsd.runtimeconfig.json
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program013-nsn-a-nsd\bin\Debug\net10.0\program013-nsn-a-nsd.dll
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program013-nsn-a-nsd\bin\Debug\net10.0\program013-nsn-a-nsd.pdb
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program013-nsn-a-nsd\obj\Debug\net10.0\program013-nsn-a-nsd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program013-nsn-a-nsd\obj\Debug\net10.0\program013-nsn-a-nsd.AssemblyInfoInputs.cache
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program013-nsn-a-nsd\obj\Debug\net10.0\program013-nsn-a-nsd.AssemblyInfo.cs
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program013-nsn-a-nsd\obj\Debug\net10.0\program013-nsn-a-nsd.csproj.CoreCompileInputs.cache
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program013-nsn-a-nsd\obj\Debug\net10.0\program013-nsn-a-nsd.sourcelink.json
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program013-nsn-a-nsd\obj\Debug\net10.0\program013-nsn-a-nsd.dll
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program013-nsn-a-nsd\obj\Debug\net10.0\refint\program013-nsn-a-nsd.dll
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program013-nsn-a-nsd\obj\Debug\net10.0\program013-nsn-a-nsd.pdb
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program013-nsn-a-nsd\obj\Debug\net10.0\program013-nsn-a-nsd.genruntimeconfig.cache
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program013-nsn-a-nsd\obj\Debug\net10.0\ref\program013-nsn-a-nsd.dll
