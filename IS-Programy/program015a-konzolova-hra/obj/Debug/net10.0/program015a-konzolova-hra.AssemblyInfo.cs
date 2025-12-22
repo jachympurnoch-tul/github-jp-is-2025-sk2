@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("program015a-konzolova-hra")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8aab2525ad2ba6c0da2528f3ecea8fb12019e874")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+baaaf69f3d309b82738bb71ef968f9afac759c17")]
 [assembly: System.Reflection.AssemblyProductAttribute("program015a-konzolova-hra")]
 [assembly: System.Reflection.AssemblyTitleAttribute("program015a-konzolova-hra")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
