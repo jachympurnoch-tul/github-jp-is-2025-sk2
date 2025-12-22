@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "program015d-moje-konzolova-hra/1.0.0": {
+        "runtime": {
+          "program015d-moje-konzolova-hra.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "program015d-moje-konzolova-hra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

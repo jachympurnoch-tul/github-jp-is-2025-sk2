@@ -1,0 +1,15 @@
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program015d-moje-konzolova-hra\bin\Debug\net10.0\program015d-moje-konzolova-hra.exe
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program015d-moje-konzolova-hra\bin\Debug\net10.0\program015d-moje-konzolova-hra.deps.json
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program015d-moje-konzolova-hra\bin\Debug\net10.0\program015d-moje-konzolova-hra.runtimeconfig.json
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program015d-moje-konzolova-hra\bin\Debug\net10.0\program015d-moje-konzolova-hra.dll
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program015d-moje-konzolova-hra\bin\Debug\net10.0\program015d-moje-konzolova-hra.pdb
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program015d-moje-konzolova-hra\obj\Debug\net10.0\program015d-moje-konzolova-hra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program015d-moje-konzolova-hra\obj\Debug\net10.0\program015d-moje-konzolova-hra.AssemblyInfoInputs.cache
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program015d-moje-konzolova-hra\obj\Debug\net10.0\program015d-moje-konzolova-hra.AssemblyInfo.cs
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program015d-moje-konzolova-hra\obj\Debug\net10.0\program015d-moje-konzolova-hra.csproj.CoreCompileInputs.cache
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program015d-moje-konzolova-hra\obj\Debug\net10.0\program015d-moje-konzolova-hra.sourcelink.json
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program015d-moje-konzolova-hra\obj\Debug\net10.0\program015d-moje-konzolova-hra.dll
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program015d-moje-konzolova-hra\obj\Debug\net10.0\refint\program015d-moje-konzolova-hra.dll
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program015d-moje-konzolova-hra\obj\Debug\net10.0\program015d-moje-konzolova-hra.pdb
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program015d-moje-konzolova-hra\obj\Debug\net10.0\program015d-moje-konzolova-hra.genruntimeconfig.cache
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program015d-moje-konzolova-hra\obj\Debug\net10.0\ref\program015d-moje-konzolova-hra.dll
