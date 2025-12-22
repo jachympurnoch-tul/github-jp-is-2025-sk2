@@ -1,0 +1,15 @@
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program015a-konzolova-hra\bin\Debug\net10.0\program015a-konzolova-hra.exe
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program015a-konzolova-hra\bin\Debug\net10.0\program015a-konzolova-hra.deps.json
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program015a-konzolova-hra\bin\Debug\net10.0\program015a-konzolova-hra.runtimeconfig.json
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program015a-konzolova-hra\bin\Debug\net10.0\program015a-konzolova-hra.dll
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program015a-konzolova-hra\bin\Debug\net10.0\program015a-konzolova-hra.pdb
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program015a-konzolova-hra\obj\Debug\net10.0\program015a-konzolova-hra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program015a-konzolova-hra\obj\Debug\net10.0\program015a-konzolova-hra.AssemblyInfoInputs.cache
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program015a-konzolova-hra\obj\Debug\net10.0\program015a-konzolova-hra.AssemblyInfo.cs
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program015a-konzolova-hra\obj\Debug\net10.0\program015a-konzolova-hra.csproj.CoreCompileInputs.cache
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program015a-konzolova-hra\obj\Debug\net10.0\program015a-konzolova-hra.sourcelink.json
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program015a-konzolova-hra\obj\Debug\net10.0\program015a-konzolova-hra.dll
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program015a-konzolova-hra\obj\Debug\net10.0\refint\program015a-konzolova-hra.dll
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program015a-konzolova-hra\obj\Debug\net10.0\program015a-konzolova-hra.pdb
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program015a-konzolova-hra\obj\Debug\net10.0\program015a-konzolova-hra.genruntimeconfig.cache
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program015a-konzolova-hra\obj\Debug\net10.0\ref\program015a-konzolova-hra.dll
