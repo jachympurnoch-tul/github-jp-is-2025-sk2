@@ -6,13 +6,11 @@ class Program
     static int PocetMinVOkoli(int pozice, HashSet<int> miny, int min, int max)
     {
         int pocet = 0;
-
         for (int i = pozice - 2; i <= pozice + 2; i++)
         {
             if (i >= min && i <= max && i != pozice && miny.Contains(i))
                 pocet++;
         }
-
         return pocet;
     }
 
@@ -73,9 +71,9 @@ class Program
                 Console.WriteLine();
 
                 if (miny.Contains(aktualniPozice))
-                    konec = true;
+                    konec = true; // šlápl na minu → prohra
                 else
-                    navstivene.Add(aktualniPozice);
+                    navstivene.Add(aktualniPozice); // bezpečné pole
 
                 // ====== ŘÁDEK S POLEM ======
                 for (int i = minPozice; i <= maxPozice; i++)
@@ -116,12 +114,32 @@ class Program
                 Console.WriteLine();
                 Console.WriteLine();
 
+                // ===== Kontrola konce hry =====
                 if (konec)
                 {
                     Console.ForegroundColor = ConsoleColor.Red;
                     Console.WriteLine("💥 Šlápl jsi na minu! Konec hry.");
                     Console.ResetColor();
                     Console.WriteLine($"Bezpečných kroků: {navstivene.Count}");
+
+                    Console.Write("Pozice všech min byly: ");
+                    foreach (int mina in miny)
+                        Console.Write(mina + " ");
+                    Console.WriteLine();
+                }
+                else if (navstivene.Count == maxPozice - pocetMin)
+                {
+                    // Pokud hráč označil všechna bezpečná pole → výhra
+                    Console.ForegroundColor = ConsoleColor.Green;
+                    Console.WriteLine("🎉 Nalezl jsi všechna bezpečná pole! Vyhrál jsi!");
+                    Console.ResetColor();
+
+                    Console.Write("Pozice všech min byly: ");
+                    foreach (int mina in miny)
+                        Console.Write(mina + " ");
+                    Console.WriteLine();
+
+                    konec = true; // konec hry
                 }
                 else
                 {
