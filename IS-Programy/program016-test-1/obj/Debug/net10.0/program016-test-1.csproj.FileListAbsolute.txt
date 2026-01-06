@@ -1,0 +1,15 @@
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program016-test-1\bin\Debug\net10.0\program016-test-1.exe
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program016-test-1\bin\Debug\net10.0\program016-test-1.deps.json
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program016-test-1\bin\Debug\net10.0\program016-test-1.runtimeconfig.json
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program016-test-1\bin\Debug\net10.0\program016-test-1.dll
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program016-test-1\bin\Debug\net10.0\program016-test-1.pdb
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program016-test-1\obj\Debug\net10.0\program016-test-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program016-test-1\obj\Debug\net10.0\program016-test-1.AssemblyInfoInputs.cache
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program016-test-1\obj\Debug\net10.0\program016-test-1.AssemblyInfo.cs
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program016-test-1\obj\Debug\net10.0\program016-test-1.csproj.CoreCompileInputs.cache
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program016-test-1\obj\Debug\net10.0\program016-test-1.sourcelink.json
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program016-test-1\obj\Debug\net10.0\program016-test-1.dll
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program016-test-1\obj\Debug\net10.0\refint\program016-test-1.dll
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program016-test-1\obj\Debug\net10.0\program016-test-1.pdb
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program016-test-1\obj\Debug\net10.0\program016-test-1.genruntimeconfig.cache
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program016-test-1\obj\Debug\net10.0\ref\program016-test-1.dll
