@@ -23,7 +23,6 @@ while (again == "a")
     {
         Console.Write("Děláte machry, ale hajzl máte na chodbě! (Nezedali jste celé číslo. Zadejte první číslo řady znovu!)");
     }
-
     Console.WriteLine();
     Console.WriteLine("Pro opakování programu stiskněte klávesu a");
     again = Console.ReadLine();

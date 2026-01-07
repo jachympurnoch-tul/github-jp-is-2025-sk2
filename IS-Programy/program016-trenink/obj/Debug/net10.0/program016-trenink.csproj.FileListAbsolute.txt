@@ -1,0 +1,15 @@
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program016-trenink\obj\Debug\net10.0\program016-trenink.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program016-trenink\obj\Debug\net10.0\program016-trenink.AssemblyInfoInputs.cache
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program016-trenink\obj\Debug\net10.0\program016-trenink.AssemblyInfo.cs
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program016-trenink\obj\Debug\net10.0\program016-trenink.csproj.CoreCompileInputs.cache
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program016-trenink\obj\Debug\net10.0\program016-trenink.sourcelink.json
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program016-trenink\bin\Debug\net10.0\program016-trenink.exe
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program016-trenink\bin\Debug\net10.0\program016-trenink.deps.json
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program016-trenink\bin\Debug\net10.0\program016-trenink.runtimeconfig.json
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program016-trenink\bin\Debug\net10.0\program016-trenink.dll
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program016-trenink\bin\Debug\net10.0\program016-trenink.pdb
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program016-trenink\obj\Debug\net10.0\program016-trenink.dll
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program016-trenink\obj\Debug\net10.0\refint\program016-trenink.dll
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program016-trenink\obj\Debug\net10.0\program016-trenink.pdb
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program016-trenink\obj\Debug\net10.0\program016-trenink.genruntimeconfig.cache
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program016-trenink\obj\Debug\net10.0\ref\program016-trenink.dll

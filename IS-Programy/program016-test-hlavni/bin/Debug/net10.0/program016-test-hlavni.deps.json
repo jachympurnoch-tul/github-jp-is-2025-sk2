@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "program016-test-hlavni/1.0.0": {
+        "runtime": {
+          "program016-test-hlavni.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "program016-test-hlavni/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

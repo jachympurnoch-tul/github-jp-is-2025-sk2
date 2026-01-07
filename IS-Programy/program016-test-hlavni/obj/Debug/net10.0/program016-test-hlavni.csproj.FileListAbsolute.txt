@@ -1,0 +1,15 @@
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program016-test-hlavni\obj\Debug\net10.0\program016-test-hlavni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program016-test-hlavni\obj\Debug\net10.0\program016-test-hlavni.AssemblyInfoInputs.cache
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program016-test-hlavni\obj\Debug\net10.0\program016-test-hlavni.AssemblyInfo.cs
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program016-test-hlavni\obj\Debug\net10.0\program016-test-hlavni.csproj.CoreCompileInputs.cache
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program016-test-hlavni\obj\Debug\net10.0\program016-test-hlavni.sourcelink.json
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program016-test-hlavni\bin\Debug\net10.0\program016-test-hlavni.exe
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program016-test-hlavni\bin\Debug\net10.0\program016-test-hlavni.deps.json
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program016-test-hlavni\bin\Debug\net10.0\program016-test-hlavni.runtimeconfig.json
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program016-test-hlavni\bin\Debug\net10.0\program016-test-hlavni.dll
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program016-test-hlavni\bin\Debug\net10.0\program016-test-hlavni.pdb
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program016-test-hlavni\obj\Debug\net10.0\program016-test-hlavni.dll
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program016-test-hlavni\obj\Debug\net10.0\refint\program016-test-hlavni.dll
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program016-test-hlavni\obj\Debug\net10.0\program016-test-hlavni.pdb
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program016-test-hlavni\obj\Debug\net10.0\program016-test-hlavni.genruntimeconfig.cache
+C:\Users\orton\aaa\github-jp-is-2025-sk2\IS-Programy\program016-test-hlavni\obj\Debug\net10.0\ref\program016-test-hlavni.dll
